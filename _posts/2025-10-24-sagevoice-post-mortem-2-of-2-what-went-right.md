@@ -18,7 +18,7 @@ And big thanks to Bhavin, for suggesting the newsletter to begin with!
 
 Last time, I wrote about the mistakes I made. We’re ending positive, however. I think I did some things well and am overall happy with the decision to do this.
 
-![No ragrets neck tattoo image](/assets/images/PI-no-ragrets-900x600-1.jpg)
+<img src="{{ site.baseurl }}/assets/images/PI-no-ragrets-900x600-1.jpg" alt="No ragrets neck tattoo image">
 
 Here is more on that!
 
@@ -32,11 +32,11 @@ From the beginning, I knew that 9 out of 10 startups fail and set it up so that 
 
 This year our family made these funky cardboard New Years Resolutions (don’t worry, I paired them with SMART goals). I’ve crossed out most of them since they’re pretty personal.
 
-![resolutions](/assets/images/resolutions.png)
+<img src="{{ site.baseurl }}/assets/images/resolutions.png" alt="resolutions">
 
 You can see that this is something I was very wary of.
 
-![avoid traps](/assets/images/avoid_traps.png)
+<img src="{{ site.baseurl }}/assets/images/avoid_traps.png" alt="avoid traps">
 
 Now, I am sure some people would argue that the best way to succeed is to make it so that failure is NOT an option. Maybe if I had more skin in the game and no other options, I would have succeeded. I’ve read enough testimonials to know that winning through this state was not something I wanted to put myself or my family through.
 
@@ -52,11 +52,11 @@ Note: I did this while growing my hair out, which looked really, really bad. I w
 
 Hence:
 
-<img src="/assets/images/clown_hair_resolution.png" alt="clown hair resolution" width="70%">
+<img src="{{ site.baseurl }}/assets/images/clown_hair_resolution.png" alt="clown hair resolution" width="70%">
 
 **Hours**
 
-![work hard resolution](/assets/images/work_hard.png)
+<img src="{{ site.baseurl }}/assets/images/work_hard.png" alt="work hard resolution">
 
 I really put in the hours. I wasn’t working 80 hr weeks and eating ramen–I have family obligations, but I worked as much as I possibly could and had little leisure for a year. It felt good to work hard on something. There were things I didn’t want to do and made myself do, but for the most part it didn’t feel like work–it felt like a really fun challenge. And that is kind of the high I’m searching for as a professional. How can I spend most of my time doing something that doesn’t feel like work?
 
@@ -66,7 +66,7 @@ For those of you reading this because you’re my friend or family, you might ca
 
 Whether my next role is a new startup, a role in product, or I try for something more technical, in this market it feels like the only way to make things happen in this environment is through networking. Rather than going to random happy hours and big events, I think finding projects to work on is going to be the best way to make real connections
 
-![lebowski weekday](/assets/images/weekday.jpg)
+<img src="{{ site.baseurl }}/assets/images/weekday.jpg" alt="lebowski weekday">
 
 In this vein, I signed up to work on a friend's coding project, am going to an age-tech hackathon next weekend, and will generally be looking for ways to get involved. Following the advice of 3 people, I’m also going to read this book, and join a job search council.
 
@@ -82,10 +82,10 @@ Click [this ⏯](https://drive.google.com/file/d/1hQE03Iv7LrFE-aaPjoIyG13JgfjxOt
 
 It also produced a mind map and a chatbot so that I can ask questions about the journey.
 
-![flow_chart.png](/assets/images/flow_chart.png)
+<img src="{{ site.baseurl }}/assets/images/flow_chart.png" alt="flow_chart.png">
 
 Lastly, you can ask questions about what happened.  So we’ll end on a note of gratitude:
 
-![who to thank](/assets/images/gratitude.gif)
+<img src="{{ site.baseurl }}/assets/images/gratitude.gif" alt="who to thank">
 
 👋
