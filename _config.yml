@@ -6,7 +6,7 @@ title_separator: "|"
 name: "Just papers, uh, you know, my papers, business papers..."
 description: "posts I write, largely about my failed startup SageVoice"
 url: "https://jonkatz.github.io"
-baseurl: "basic_git_blog" # no trailing slash
+baseurl: "brain_archive" # no trailing slash
 
 # Build settings
 markdown: kramdown
