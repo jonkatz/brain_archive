@@ -23,11 +23,17 @@ I need a validated, clear vision to make money, raise money or attract a cofound
 
 So I moved to something like this and similarly, have been getting traction, but not enough.
 
+<img src="{{ site.baseurl }}/assets/images/4e5c4784-408e-82ae-e9a0-d033e3a8c6c7.png" alt="4e5c4784-408e-82ae-e9a0-d033e3a8c6c7.png">
+
 My work in October to demystify it, did not bear fruit. When your initial approach doesn’t work…you have to change something. So now I’m exploring variations to see whether different value propositions will work.  And, to move fast, I’m considering a number of things to see where I get traction first. This is too much
+
+<img src="{{ site.baseurl }}/assets/images/aae5ffac-f233-9db8-5973-026b5b65e153.png" alt="aae5ffac-f233-9db8-5973-026b5b65e153.png">
 
 So my goal for the end of the year is to find enough traction with one of these to narrow my focus.
 
 In November, I’m going to focus on 2 potential pilots, testing one new “value proposition”, and researching a new approach.  That seems like a lot, but pilots have been moving slowly so far.
+
+<img src="{{ site.baseurl }}/assets/images/29c3a327-ed90-c7ca-9391-95025d5ea1a9.png" alt="29c3a327-ed90-c7ca-9391-95025d5ea1a9.png">
 
 **Last week(s)**
 
@@ -48,6 +54,12 @@ In November, I’m going to focus on 2 potential pilots, testing one new “valu
 **Stock image of the week:**
 
 Are there stock images of protests? Yes there are!  And amazingly enough, the creators make the signs blank so that you can make them shout about anything.
+
+<img src="{{ site.baseurl }}/assets/images/3b00db51-5f1e-d58e-de1e-4b1ef0cb594e.jpg" alt="3b00db51-5f1e-d58e-de1e-4b1ef0cb594e.jpg">
+
+<img src="{{ site.baseurl }}/assets/images/1e6d0d8c-a444-1029-b6d2-2a4a2cf635ae.jpeg" alt="1e6d0d8c-a444-1029-b6d2-2a4a2cf635ae.jpeg">
+
+<img src="{{ site.baseurl }}/assets/images/a56b12a3-2a41-95fb-dd5b-0602daad2525.jpeg" alt="a56b12a3-2a41-95fb-dd5b-0602daad2525.jpeg">
 
 I don’t know if I’ll find anything this amazing again.  Apologies for peaking so soon.
 

@@ -41,6 +41,8 @@ Going into this new year, I’m sad because it’s clear I was right that bots c
 
 This was a big tree. What do you think was in it?
 
+<img src="{{ site.baseurl }}/assets/images/27a34d14-bec2-1c30-800c-262fdbdd3427.jpg" alt="27a34d14-bec2-1c30-800c-262fdbdd3427.jpg">
+
 ## 1st 6 months reflection
 
 Since it’s the start of a new year, I thought I’d share what I’ve learned and done over the last 6 months I’ve been doing this in stat form:
@@ -85,6 +87,10 @@ As part of the year’s end, I reviewed my expenses. I’ll share my cost struct
 ## Stock Image of the week
 
 I’ve been sitting on this for a couple weeks now…I think I knew that horse people did this sometimes with their horses, but it’s very weird to see it in stock photo art.
+
+<img src="{{ site.baseurl }}/assets/images/29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg" alt="29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg">
+
+<img src="{{ site.baseurl }}/assets/images/115dc043-041e-309e-72f3-62c501a14335.jpg" alt="115dc043-041e-309e-72f3-62c501a14335.jpg">
 
 I’m wracking my brain trying to figure out how someone might use this image in their materials.  Apple company?
 

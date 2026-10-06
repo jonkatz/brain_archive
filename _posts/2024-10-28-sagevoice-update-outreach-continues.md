@@ -52,4 +52,6 @@ Focusing on outreach was effective last week.  I’m going to do it again.  On
 
 **Stock image of the week**
 
+<img src="{{ site.baseurl }}/assets/images/ea0eccb7-c670-9073-aa16-3c8dda0ceaa0.jpg" alt="ea0eccb7-c670-9073-aa16-3c8dda0ceaa0.jpg">
+
 **As always, questions/feedback/advice on the process or even this email is welcome!**

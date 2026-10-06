@@ -13,6 +13,8 @@ tags: [mailchimp]
 
 - **Finished the new landing page.**This page emphasizes how SageVoice can be used to connect with family members.…not tested yet, because I wanted to add something else to improve it’s chances.  Here’s an image from the page…
 
+<img src="{{ site.baseurl }}/assets/images/64e81fff-2662-8fde-9a0e-e50ad351a207.png" alt="64e81fff-2662-8fde-9a0e-e50ad351a207.png">
+
 - **Networking event.** I attended an East Bay Eldercare networking event. Everyone was really nice and I learned a lot. I think it’s a small community and that this might be the way that I get more consistent traction with folks at senior living facilities.
 - **Coding.** I did a lot of coding this week to prepare for the pilot. This is partly necessary and partly a motivational reward.
 
@@ -23,6 +25,8 @@ tags: [mailchimp]
 - **Research.** Dig deeper into the academic/pharma use case. I barely touched it this week.
 
 ### Stock image of the week
+
+<img src="{{ site.baseurl }}/assets/images/b5837463-568f-8443-01e9-cae5676861a8.jpg" alt="b5837463-568f-8443-01e9-cae5676861a8.jpg">
 
 “Oh, sweet triumph! We have*all* won this wholesome game of non-alcoholic beer pong”
 

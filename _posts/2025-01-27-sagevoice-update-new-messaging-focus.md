@@ -7,6 +7,8 @@ tags: [mailchimp]
 
 # New messaging focus
 
+<img src="{{ site.baseurl }}/assets/images/d213150c-533e-3011-7f1b-1caef4151027.gif" alt="Out of the way grandpa">
+
 ## A bit on goals
 
 I’ll talk about my February goals in more detail next week, but the basic premise is that I need to validate my use cases.  On the one hand, an eye roll is in order. I’ve been doing that since I started.  But in the current round, I’ll call it round 2, I’m feeling more confident.
@@ -25,7 +27,11 @@ You may have noticed that I changed my email address. Indeed I have a new web do
 
 Old website (example)
 
+<img src="{{ site.baseurl }}/assets/images/82d34aa8-315b-7581-b8be-e2125f394a78.png" alt="Old SageVoice website">
+
 New website (example)
+
+<img src="{{ site.baseurl }}/assets/images/564e8596-7661-f5c1-5df0-8c6394e09ddd.png" alt="New SageVoice website">
 
 ## Fattening the pipeline
 
@@ -65,5 +71,7 @@ I did some forward looking work, but with just these two interested parties, it 
 ## **Stock Image of the week**
 
 We’re back to unsettling use of farm animals.  Why? Because people are bad at animals. Using another, live animal as furniture while you canoodle is the ultimate insult. Note: the pig kind of looks dead. That is worse, right?
+
+<img src="{{ site.baseurl }}/assets/images/1dbdff1c-108f-0da8-107c-0feb1ea3009a.jpg" alt="1dbdff1c-108f-0da8-107c-0feb1ea3009a.jpg">
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

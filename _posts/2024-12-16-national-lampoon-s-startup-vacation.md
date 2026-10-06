@@ -13,6 +13,8 @@ tags: [mailchimp]
 
 After this week, I’ll be on vacation for 2 weeks. Our plans consist of a few nights in Arcata and the following:
 
+<img src="{{ site.baseurl }}/assets/images/a3104c90-89dd-e5d3-b329-0953cca09e0b.jpeg" alt="a3104c90-89dd-e5d3-b329-0953cca09e0b.jpeg">
+
 I hope you have a great end-of-year and take some time to reflect on the year behind and ahead.  Also, be sure to PoPoP.
 
 ## “Startups don’t starve, they drown”
@@ -82,5 +84,9 @@ I have lots of reflections on why I struggled with adoption. I think there are s
 ## Stock Image of the week
 
 In honor of the end of year holidays, I bring you unhinged-juggling-Dr-Santa
+
+<img src="{{ site.baseurl }}/assets/images/fa9a3974-37df-6a0b-19db-f3a81df5c302.jpg" alt="fa9a3974-37df-6a0b-19db-f3a81df5c302.jpg">
+
+<img src="{{ site.baseurl }}/assets/images/e2129b1f-414d-031e-6725-849efda68c64.jpg" alt="e2129b1f-414d-031e-6725-849efda68c64.jpg">
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

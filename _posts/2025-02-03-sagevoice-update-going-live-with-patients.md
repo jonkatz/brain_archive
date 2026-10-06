@@ -7,6 +7,8 @@ tags: [mailchimp]
 
 # We’re going live with patients!
 
+<img src="{{ site.baseurl }}/assets/images/22039576-1388-9a0f-c397-4ae77d50eae4.gif" alt="We'll do it live">
+
 ## Exciting progress
 
 A few weeks ago, I started talking with a cardiologist at Columbia (Thanks to Pallav for the intro 🙏!!).  I demoed it for him and he said things like “Jon, this is the future!” and “This will help people so much”.  So he asked me to convert one of his clinic’s interviews into an AI interview.
@@ -20,6 +22,8 @@ A16z is overly optimistic about technology, most recently in crypto, but I think
 <https://a16z.com/ai-voice-agents-2025-update/#section--2>
 
 Is it good to be part of such a ballooning industry? Is it a bubble, a winner-take-all-market, or am I on the right side of history. I’m pretty confident that this is a shift in how much technology does for us and how it does it and there is room for a lot of niche players (at least for a while). But only the magic eight ball knows…
+
+<img src="{{ site.baseurl }}/assets/images/41be96df-08e9-35c1-9a3d-2ee4f862d5c0.jpg" alt="41be96df-08e9-35c1-9a3d-2ee4f862d5c0.jpg">
 
 ## Goals for February
 
@@ -96,6 +100,8 @@ I have heard this is an expensive problem, but not sure if people will pay for i
 ##
 
 ## **Stock Image of the week**
+
+<img src="{{ site.baseurl }}/assets/images/6ebbf075-9379-d76a-f279-c7cddc8d2d34.jpg" alt="Annoyed adult man in party hat with gift boxes">
 
 The stock image description of this image is “_Annoyed adult slavic man in optical glasses wearing blue party hat holds gift boxes_”.
 

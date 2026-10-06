@@ -7,7 +7,7 @@ tags: [mailchimp]
 
 # What does a pre-revenue startup cost?
 
-#
+<img src="{{ site.baseurl }}/assets/images/af7645dc-c337-16d2-7e67-16f803a5c1bc.jpeg" alt="Arrested Development banana cost meme">
 
 My family and I were sick most of last week, so it was mostly a wash.  I had, however, already reviewed my spending and wrote up some thoughts.
 
@@ -51,11 +51,15 @@ There are several categories of cost.
 
 - My current fixed costs (accumulating over time) are now at ~$400/month. Here is a rough breakdown.
 
+<img src="{{ site.baseurl }}/assets/images/a6b0f82f-9474-42ed-4724-87150774c0f4.png" alt="a6b0f82f-9474-42ed-4724-87150774c0f4.png">
+
 Product = what it costs to keep the product online and functional.
 
 Development = cost of tools used to build the product.
 
 - [Here](https://docs.google.com/spreadsheets/d/1TQxwEd2XPnr1l4cLpVQ1rPOMQDyQD7qcKRZQJCyz-5s/edit?usp=sharing) is the spreadsheet (same as above) where I have broken these down with descriptions and  you can geek out on all the numbers if you’re interested.  Here is a subset.
+
+<img src="{{ site.baseurl }}/assets/images/343ff6fb-0908-6de8-003c-7baabbf0586f.png" alt="343ff6fb-0908-6de8-003c-7baabbf0586f.png">
 
 - The bulk here is subscriptions to support a website, outreach tools.
 - Very notably, the cost of developing and hosting a product are small and go up with scale.  Unlike a restaurant, my bills are almost 0 until I have customers.
@@ -84,6 +88,8 @@ The winner (based on a judge of 1) is Zeph, with this gem:
 
 _When you are lonely and you are surrounded by horses, hang out with the one that has apples._
 
+<img src="{{ site.baseurl }}/assets/images/29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg" alt="29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg">
+
 ## Stock Image of the week
 
 Apropos of nothing happening in the news this week, I typed in the search term “idiot king” and found a surprising number of guys in crowns giving folks a double middle-finger. Stock Image of the week
@@ -92,7 +98,15 @@ Apropos of nothing happening in the news this week, I typed in the search term �
 
 I suppose that’s a fair representation of the history of kings, but I still find it somewhat odd.
 
+<img src="{{ site.baseurl }}/assets/images/4fd518a9-213d-c1a4-82db-2fd4d84705d5.jpg" alt="4fd518a9-213d-c1a4-82db-2fd4d84705d5.jpg">
+
+<img src="{{ site.baseurl }}/assets/images/f09cad1c-bb75-b367-8821-1ebe5a1e14c2.jpg" alt="f09cad1c-bb75-b367-8821-1ebe5a1e14c2.jpg">
+
+<img src="{{ site.baseurl }}/assets/images/ac44aa93-bc70-8de1-c484-6c4b8c894543.jpg" alt="ac44aa93-bc70-8de1-c484-6c4b8c894543.jpg">
+
 What’s with the thumbs?
+
+<img src="{{ site.baseurl }}/assets/images/bc32753d-8284-8e69-a0c0-65f3adb244d5.jpg" alt="bc32753d-8284-8e69-a0c0-65f3adb244d5.jpg">
 
 This guy’s confidence.  🤌
 

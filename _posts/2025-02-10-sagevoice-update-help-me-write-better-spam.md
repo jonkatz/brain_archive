@@ -11,6 +11,8 @@ Hey,
 
 Do you like getting unsolicited mail or email? Neither do I.
 
+<img src="{{ site.baseurl }}/assets/images/0386cfad-b62d-575c-6403-9a58a84fbae5.jpeg" alt="Fundraising envelope asking for a nickel">
+
 Yet now that I have something that might be useful, I **honestly** feel like I’m doing someone a service by letting them know about it. Life is weird.
 
 On that note, I’d love to hear your opinion on my email to potential clients.
@@ -57,6 +59,8 @@ At one point, I had a landing page that was oriented around daily calls to your 
 
 There are now 3 services that offer the same thing. All with similar value propositions, and all with better-designed pages. I am meeting the CEO of the latest entrant on Tuesday.  Here is his slick page. <https://www.getcarecall.com/>
 
+<img src="{{ site.baseurl }}/assets/images/dcccf505-fe5e-96e4-037f-5adece0e67fe.png" alt="CareCall landing page">
+
 I’m so curious about this.  Are they getting traction? Did I give up too soon? Is better design the difference? Are they just further behind in their learnings? Or are they better funded, going to wait it out and make it work.  I have no doubt that this will someday be a real business, but also unclear how it can function now unless you’re willing to invest a lot up front.
 
 ## **Last week:**
@@ -88,5 +92,7 @@ I’m so curious about this.  Are they getting traction? Did I give up too soon
 ## **Stock Image of the week**
 
 I have no idea what this is. Explanations welcome!
+
+<img src="{{ site.baseurl }}/assets/images/9d74653e-b7a8-645b-a1e2-9266f199953f.jpg" alt="9d74653e-b7a8-645b-a1e2-9266f199953f.jpg">
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

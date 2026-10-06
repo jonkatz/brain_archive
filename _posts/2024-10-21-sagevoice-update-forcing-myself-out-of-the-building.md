@@ -15,6 +15,8 @@ SageVoice reduces loneliness among seniors using the latest in AI + voice techno
 
 Thanks to Zeph for helping me explain the concept simply for a recent application:
 
+<img src="{{ site.baseurl }}/assets/images/be77dc68-2674-55b5-ecbf-a343cc5097fe.png" alt="be77dc68-2674-55b5-ecbf-a343cc5097fe.png">
+
 **Request- 2 multiple choice questions**
 
 If you have seen my requests for interviews or requests for beta testers and haven’t approached an elderly person in your life, that’s TOTALLY understandable.  Here’s an anonymous survey to help me understand cause of the gap between “Mom needs this” and where you’re at.
@@ -45,6 +47,8 @@ As an early-stage founder, talking to users is the thing I am most likely to und
 * I started some co-founder outreach last week. My goal is to reach out to 5 people each week for a while and see what that leads to.
 
 **Stock image of the week**
+
+<img src="{{ site.baseurl }}/assets/images/a5962854-c6d4-1787-5a4e-5d66925f56eb.jpg" alt="a5962854-c6d4-1787-5a4e-5d66925f56eb.jpg">
 
 Wow. I don’t know where to start.  From the raised eyebrow, to the one-handed clipper stance…No notes.
 

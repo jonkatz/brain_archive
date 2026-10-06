@@ -13,6 +13,8 @@ I hope your Thanksgiving was awesome!  If you read anything, I’d read the cal
 
 This is an image from when I spoke with some seniors at a senior residence the week before Thanksgiving.  It was a lot of fun.
 
+<img src="{{ site.baseurl }}/assets/images/bde48494-61ba-7cd7-4386-c54c73bda2d7.jpeg" alt="bde48494-61ba-7cd7-4386-c54c73bda2d7.jpeg">
+
 ## Storytime
 
 First a story that I think shares why I have conviction that bots WILL help lonely elderly and why it’s so hard to get started.
@@ -119,6 +121,8 @@ In November, my goal was:
 
 *In November, I’m going to focus on 2 potential pilots, testing one new “value proposition”, and researching a new approach.  That seems like a lot, but pilots have been moving slowly so far.*
 
+<img src="{{ site.baseurl }}/assets/images/29c3a327-ed90-c7ca-9391-95025d5ea1a9.png" alt="29c3a327-ed90-c7ca-9391-95025d5ea1a9.png">
+
 **Results**
 
 November was “successful”, largely in helping me fail fast.
@@ -140,6 +144,8 @@ November was “successful”, largely in helping me fail fast.
 This has been long enough, so I’ll skip the last week this week format and resume next time.
 
 ## **Stock image of the week**
+
+<img src="{{ site.baseurl }}/assets/images/5faa2c45-a056-138e-f145-4f89cde1b770.jpg" alt="5faa2c45-a056-138e-f145-4f89cde1b770.jpg">
 
 I’m speechless. I want to have drinks or with whoever thought this one up.
 

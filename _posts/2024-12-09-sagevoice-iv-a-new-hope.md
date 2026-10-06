@@ -30,9 +30,15 @@ Over the last few months, I broadened from my approach as a precursor to this pi
 
 **Original model:**
 
+<img src="{{ site.baseurl }}/assets/images/ae510a67-b428-db47-08fd-678c60a236a1.png" alt="Original SageVoice model diagram">
+
 **Expanded approaches:**
 
+<img src="{{ site.baseurl }}/assets/images/aae5ffac-f233-9db8-5973-026b5b65e153.png" alt="Expanded SageVoice approaches diagram">
+
 **Pivot = ruling out original**
+
+<img src="{{ site.baseurl }}/assets/images/9702d274-1244-4a7f-f411-e867ba4ce232.png" alt="9702d274-1244-4a7f-f411-e867ba4ce232.png">
 
 In place of the removed dimensions, here are some leads I want to track down:
 
@@ -47,6 +53,8 @@ In place of the removed dimensions, here are some leads I want to track down:
 * Patient engagement (life story collection) for hospice
 
 Now it looks like this (green = new)
+
+<img src="{{ site.baseurl }}/assets/images/6004bbc2-c127-0496-7a3d-c40400bcd7d2.png" alt="6004bbc2-c127-0496-7a3d-c40400bcd7d2.png">
 
 These are all areas where I have enough of a hint that I think is worth looking into, but by no means do I have conviction.  Next week, I’ll do a post mortem on why my approach to voice companions for the elderly hit snags.
 
@@ -67,6 +75,8 @@ These are all areas where I have enough of a hint that I think is worth looking 
 ## 
 
 ## **Stock image of the week:**
+
+<img src="{{ site.baseurl }}/assets/images/daaf5eea-0819-ecf4-c792-bd6a6a8157c3.jpg" alt="Contemptuous teenager dog">
 
 Contemptuous-teenager dog!
 
