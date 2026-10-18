@@ -10,3 +10,21 @@
   padding-inline-end: 0 !important;
 }
 
+.page__content {
+  ul li,
+  ol li {
+    margin-bottom: 0;
+  }
+
+  li ul,
+  li ol {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  // kramdown wraps items of "loose" lists (blank lines or nested lists) in <p>
+  li > p {
+    margin: 0;
+  }
+}
+
