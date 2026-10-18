@@ -82,7 +82,7 @@ The conventional wisdom is not to stop until you find something that customers a
 
 **In future endeavors, I will have to remember that mild interest means “no”, at least in enterprise.**  The reason it means no is that, due to switching costs, inertia, and limited attention, there is a huge barrier to new product adoption. In my case, offering 50% savings/convenience on a specific area of the business that wasn’t a big part of their budget was not compelling enough.
 
-I waited till my 40s.
+### I waited till my 40s
 
 Much has been said about the value of being young while starting a company.  I agree with all of it. To sum it up briefly, a 20 something year old who has money in the bank and no social obligations can work harder and take bigger risks than me. I have a mortgage, a wife, 2 kids, 2 cats and a sick Dad. In any given week, I had 15+ hrs of time dedicated to my family.  My hardest working weeks were not 80 hours and my runway was a year.
 
