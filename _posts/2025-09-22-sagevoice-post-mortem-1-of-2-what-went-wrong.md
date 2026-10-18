@@ -31,7 +31,6 @@ A number of people have asked what it means that I’m winding SageVoice down. I
     - Wrap up pilot with Columbia (we’re hoping to publish results of the pilot!)
     - Keep the domain up in case anything comes up– at this stage, SageVoice could still be revived if something changed.
     - Keep up the appearance of running a startup so I don’t look unemployed.
-
 - Phase 2:
   - Name: Bones
   - Timing: post-new-adventure—> I stop working on related projects
@@ -156,10 +155,3 @@ I’ll talk about that more next time.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u3o8Cygx1EU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the meantime, if you have any specific questions about what went wrong or have another angle I should consider.  Please let me know!
-
-<style>
-  /* Nested list items are wrapped in paragraphs, which adds a blank-line gap before sub-bullets. */
-  .page__content li > p:not(:last-child) {
-    margin-bottom: 0;
-  }
-</style>
