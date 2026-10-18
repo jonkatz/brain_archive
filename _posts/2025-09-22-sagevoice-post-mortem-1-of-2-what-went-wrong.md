@@ -25,25 +25,20 @@ Today’s topic is “what went wrong”.  Next time, I’ll cover what I think
 A number of people have asked what it means that I’m winding SageVoice down. I think there are phases here.
 
 - Phase 1:
-
   - Name: Hibernation
   - Timing: pre-new-adventure
   - Characteristics:
-
     - Wrap up pilot with Columbia (we’re hoping to publish results of the pilot!)
     - Keep the domain up in case anything comes up– at this stage, SageVoice could still be revived if something changed.
     - Keep up the appearance of running a startup so I don’t look unemployed.
 
 - Phase 2:
-
   - Name: Bones
   - Timing: post-new-adventure—> I stop working on related projects
   - Characteristics:
-
     - Shut down the website.
     - SageVoice is officially done, but keep SageVoice LLC as an entity
     - Basically, the cost of keeping Sagevoice alive every year is $800 to the state of CA.  The advantage of keeping it alive are:
-
       - I have open accounts in its name, and AWS credits
       - costs associated with SageVoice projects are business losses and tax deductible
       - I have some “limited liability” by working through a corporate entity.
@@ -89,7 +84,7 @@ The conventional wisdom is not to stop until you find something that customers a
 
 I waited till my 40s.
 
-Much has been said about the value of being young while starting a company.  I agree with all of it. To sum it up briefly, a 20 something year old who has money in the bank and no social obligations can work harder and take bigger risks than me. I have a mortgage, a wife, 2 kids, 2 cats and a sick Dad. In any given week, I had 30 hrs of time dedicated to my family.  My hardest working weeks were nowhere near 80 hours and my runway was a year.
+Much has been said about the value of being young while starting a company.  I agree with all of it. To sum it up briefly, a 20 something year old who has money in the bank and no social obligations can work harder and take bigger risks than me. I have a mortgage, a wife, 2 kids, 2 cats and a sick Dad. In any given week, I had 15+ hrs of time dedicated to my family.  My hardest working weeks were not 80 hours and my runway was a year.
 
 <img src="{{ site.baseurl }}/assets/images/253118a3-d938-d7f5-7123-c8cb1ab34e72.png" alt="253118a3-d938-d7f5-7123-c8cb1ab34e72.png">
 
@@ -101,7 +96,9 @@ While I have “wisdom” from being older and believe I would be better suited 
 
 While I can learn from the other mistakes, unfortunately, I can’t remedy this one.  But it is not going to be a reason I don’t do another startup!
 
-## (Maybe) Mistakes I made? I’m not sure if these were mistakes or not… Mostly avoided incubators/funders
+## (Maybe) Mistakes I made? I’m not sure if these were mistakes or not…
+
+### Mostly avoided incubators/funders
 
 10 years ago, you usually needed to raise before you built anything, but I got the impression early on that with today’s incredible tech stack + AI, external funders/validators needed to see traction before they invested.  After applying to very specific incubators (age-tech), not getting past the first round, I looked at who got in and they all had some traction.  So I decided I needed some sort of market traction before I tried to get any external interest.
 
@@ -143,10 +140,8 @@ In both cases, AI voice agents are novel enough that the risk and stigma did not
 **Research voice agent**
 
 - Voice agents are, generally speaking, not yet as good as humans in conversation.  So their value lies in spaces where volume of calls is high, and enterprises are willing to take a cut in outcomes in order to reach more people.  Clinical research is not that space.
-
   - Study participants are high-value assets and, in many trials, they are hard to find. If they were hard to sift through, then an AI makes more sense, but I didn’t encounter trials willing to take that risk.
   - Researchers are _generally_ risk averse. The gain in productivity or extra data wasn’t worth any potential risk to FDA approval or result quality.
-
     - Most people I spoke to, whether it was oncologists or psychologists, felt that the subject matter was too sensitive for a bot.  Here is a quote from an email: _After our conversation, I spoke with Doug and we agreed that while the technology is very impressive, we don't see a use for it in our current trials given the sensitivity of our data collection._
     - Others wanted to see validation through study first.
 
@@ -161,3 +156,10 @@ I’ll talk about that more next time.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u3o8Cygx1EU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the meantime, if you have any specific questions about what went wrong or have another angle I should consider.  Please let me know!
+
+<style>
+  /* Nested list items are wrapped in paragraphs, which adds a blank-line gap before sub-bullets. */
+  .page__content li > p:not(:last-child) {
+    margin-bottom: 0;
+  }
+</style>
