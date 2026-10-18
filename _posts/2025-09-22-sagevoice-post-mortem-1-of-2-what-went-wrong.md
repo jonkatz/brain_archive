@@ -31,6 +31,7 @@ A number of people have asked what it means that I’m winding SageVoice down. I
     - Wrap up pilot with Columbia (we’re hoping to publish results of the pilot!)
     - Keep the domain up in case anything comes up– at this stage, SageVoice could still be revived if something changed.
     - Keep up the appearance of running a startup so I don’t look unemployed.
+
 - Phase 2:
   - Name: Bones
   - Timing: post-new-adventure—> I stop working on related projects
