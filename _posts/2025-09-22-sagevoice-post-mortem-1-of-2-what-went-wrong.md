@@ -121,7 +121,7 @@ While I didn’t find a cofounder, and indeed, most of the conversations were a 
 
 One insight I learned at ODF, is that it’s hard to bring on a cofounder if you’re already obsessed with something. I think for my next endeavor, I’d like to bring someone on first and then get obsessed together.
 
-End result: Why the offering failed
+## End result: Why the offering failed
 
 My mistakes manifested a product that wasn’t the right fit. But what specifically about it was wrong?
 
